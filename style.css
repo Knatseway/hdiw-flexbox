@@ -36,5 +36,10 @@
     flex-basis:30%;
     flex-grow:3;
 }
+.item5{
+    background-color:hotpink;
+    /*flex-basis:80%;*/
+    /*flex-grow:8;*/
+}
 
 /*flex: 0 1 100px grow shrink and basis in one line*/
