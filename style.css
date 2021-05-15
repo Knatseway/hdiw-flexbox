@@ -18,7 +18,7 @@
 }
 
 .item{
-    background-color:pink;
+    background-color: #a8e95b;
     flex-basis:30%;
     flex-grow:1;
 }
