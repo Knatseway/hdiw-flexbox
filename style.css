@@ -6,7 +6,7 @@
     width: 90%;
     height: 200px;
     /*background-color: yellow;*/
-    color: black;
+    color: red;
 
     display: flex;
     flex-flow: row wrap;
